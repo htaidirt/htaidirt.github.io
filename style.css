@@ -1,0 +1,52 @@
+/*
+ *	https://coolors.co/06aed5-086788-f0c808-fff1d0-dd1c1a
+ *	blue: 06aed5
+ *	sea blue: 086788
+ *	yellow: 086788
+ *	yellow light: fff1d0
+ *	red: dd1c1a
+ */
+
+table {
+	margin: 0 auto;
+}
+
+code {
+	background: #fff1d0;
+	color: #dd1c1a;
+	font-style: italic;
+}
+
+blockquote {
+	border-left: 2px solid #dd1c1a;
+	margin-left: 0;
+	padding-left: 50px;
+}
+
+main.wrapper {
+	font-size: 14px;
+	margin: 0 auto;
+	max-width: 900px;
+}
+
+.content .about h2 {
+	font-weight: 100;
+	margin-top: 50px;
+}
+
+.content article header h1 {
+	color: #086788;
+	margin-top: 5em;
+}
+
+.content article header h2.date {
+	margin: 1em 0 5em;
+}
+
+.content article h3 {
+	color: #06aed5;
+}
+
+.content article .gist table td.blob-num {
+	border: none;
+}
